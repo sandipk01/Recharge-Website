@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>http://localhost:55744/recharge1/advertisments/NewFolder1/t-shirtadd.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:55744/recharge1/advertisments/NewFolder1/ace.gif</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>

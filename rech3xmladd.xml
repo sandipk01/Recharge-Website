@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>http://localhost:55744/recharge1/advertisments/NewFolder1/amezon.jpg</ImageUrl>
+    <NavigateUrl>http://www.amazon.in/</NavigateUrl>
+    <AlternateText>Amazon Online shopping</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:55744/recharge1/advertisments/NewFolder1/t-shirtadd.jpg</ImageUrl>
+    <NavigateUrl>https://secure-sin.adnxs.com/click?eukmMQisfD956SYxCKx8PwIrhxbZzt8_ISDhpfDKlj8hIOGl8MqWPwvAlE1yg-oDufVmSwhTiWLX9rlWAAAAAFD1XwC1AAAAMQgAAAIAAADv9HgC0WMAAAAAAQBVU0QAVVNEAFABGAHcAAAAEfoBAgUAAQAAAAAA9CYogQAAAAA./cnd=%21rgkoeAjQu9sFEO_p4xMY0ccBIAAoipygmgM./referrer=http%3A%2F%2Fwww.easymobilerecharge.com%2Frecharge_payment.php/clickenc=https%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3Dl%26ai%3DCbeue1va5VtS7M4aVvgS2-ZGID-uYlZkG45X9pbcBwI23ARABIABg5YKAgLwOggEXY2EtcHViLTA3MTA0MTUxMTAxMDk3NzagAfWvxdIDyAEJqQKbpKK8Z55PPqgDAaoEqQFP0KAIC_p16v_fF3JpzwnYMrt36CIg6kRbuV7rF7EHnAoVGP49oduXaLkb1zmtgvoucfqq4kLn3yDEBQeXxh2wBx7doUEpuFfQpKyZ0LQjMTM6rCXdAloWH-EG4Idfnm2EZTP4rLEl9OCXYgUyeVgyAf0KYeALWQj6MRuCZzHm43TNR6U7f9ZPLGEnp8qyj8kwfbJDtDzKh6QsROJOS2iSxXhkIT7JnNrkgAaGz72_3J6dpAagBiHYBwA%26num%3D1%26sig%3DAOD64_26MhWIpPh8p5bsvgoNxLAdfA3vcw%26client%3Dca-pub-0710415110109776%26adurl%3Dhttp%253A%252F%252Fzovi.com%252Fmens-new-shirts%253Fccode%253Dyop%2526utm_source%253Dyop</NavigateUrl>
+    <AlternateText>Tshirt</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+</Advertisements>

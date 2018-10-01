@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>http://localhost:55744/recharge1/advertisments/mediatek.gif</ImageUrl>
+    <NavigateUrl>http://www.amazon.in/</NavigateUrl>
+    <AlternateText>Amazon Online shopping</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+</Advertisements>

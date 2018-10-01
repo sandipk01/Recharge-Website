@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="masterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+  
+
+            <div id="container1">
+
+
+<div id="container">
+<div id="header">
+<h1><img src="animation/mobile%20no%20enter.gif" alt="Smiley face" 
+        style="height: 40px; width: 54px">EasyRecharge.com</h1>
+</div><br>
+
+<table><tr><td>
+<div id="wrapper">
+<div id="navMenu">
+<ul>
+<li>
+<a href="Home_Page.aspx">Home</a>
+</li>
+
+<li>
+<a href="Manage.aspx">Manage Account</a>
+<ul>
+<a href="Contact_Us.aspx">Contact US</a>
+<a href="About_Us.aspx">About US</a>
+</ul>
+</li>
+
+<li>
+<a href="Recharge.aspx">Recharge</a>
+<ul>
+<li><a href="Recharge.aspx">Mobile recharge</a></li>
+<li><a href="DTHRecharge.aspx">DTH Recharge</a></li>
+<li><a href="DataCardRecharge.aspx">Data Card</a></li>
+
+</ul>
+</li>
+<li><a href="Register_Page.aspx">Register</a></li>
+</ul>
+</div>
+
+</div>
+</td>
+<td>
+
+<asp:ContentPlaceHolder id="head" runat="server">
+
+
+
+    </asp:ContentPlaceHolder>
+
+</td>
+</tr>
+</table>
+<div id="content">
+         
+
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+
+
+
+
+
+        </asp:ContentPlaceHolder>
+
+</div>
+
+<div id="footer">
+    <center><a href="terms_condition.aspx" 
+        style="color: #FFFFFF; font-weight: 700; font-style: italic; font-size: small">Terms & Conditions </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="PrivacyPolicy.aspx" 
+        style="font-weight: 700; font-style: italic; color: #FFFFFF; font-size: small">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Disclaimer.aspx" 
+        style="font-weight: 700; font-style: italic; color: #FFFFFF; font-size: small">Disclaimer</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="RefundPolicy.aspx" 
+        style="font-weight: 700; font-style: italic; color: #FFFFFF; font-size: small">Refund Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</center>
+<div>
+
+</div>
+
+</div>
+
+
+
+    </form>
+</body>
+</html>
